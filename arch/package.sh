@@ -34,7 +34,6 @@ packages=(
     ttf-dejavu-nerd
     vscodium-bin
     bibata-cursor-theme
-    nordvpn-bin
 )
 
 for package in ${packages[@]}; do
