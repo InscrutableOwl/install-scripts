@@ -16,7 +16,7 @@ bash ~/install-scripts/mx/codium.sh #
 
 bash ~/install-scripts/mx/kitty.sh #
 
-bash ~/install-scripts/mx/starship.sh #
+# bash ~/install-scripts/mx/starship.sh #
 
 git clone https://github.com/InscrutableOwl/dotfiles.git ~/dotfiles
 
