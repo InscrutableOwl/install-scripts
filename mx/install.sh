@@ -6,7 +6,7 @@ bash ~/install-scripts/mx/package.sh #
 
 bash ~/install-scripts/mx/dvd.sh
 
-bash ~/install-scripts/mx/proton.sh
+# bash ~/install-scripts/mx/proton.sh
 
 bash ~/install-scripts/mx/nerdfonts.sh #
 
