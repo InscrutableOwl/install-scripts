@@ -2,6 +2,8 @@
 
 ## arch packages
 
+## vscodium-bin nordvpn-bin flatpak
+
 packages=(
     lolcat
     innoextract
@@ -22,7 +24,6 @@ packages=(
     kitty
     libdvdcss
     papirus-icon-theme
-    flatpak
     fastfetch
     ttf-nerd-fonts-symbols
     ttf-nerd-fonts-symbols-common
@@ -31,8 +32,8 @@ packages=(
     ttf-martian-mono-nerd
     ttf-hack-nerd
     ttf-jetbrains-mono-nerd
-    ttf-dejavu-nerd
-    vscodium-bin
+    ttf-fantasque-nerd
+    ttf-firacode-nerd
     bibata-cursor-theme
 )
 
