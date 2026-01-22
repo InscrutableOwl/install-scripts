@@ -22,7 +22,7 @@ bash ~/install-scripts/debian/codium.sh #
 
 bash ~/install-scripts/debian/kitty.sh #
 
-bash ~/install-scripts/debian/starship.sh #
+# bash ~/install-scripts/debian/starship.sh #
 
 git clone https://github.com/InscrutableOwl/dotfiles.git ~/dotfiles
 
