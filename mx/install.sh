@@ -12,7 +12,7 @@ bash ~/install-scripts/mx/nerdfonts.sh #
 
 bash ~/install-scripts/mx/gitcli.sh #
 
-bash ~/install-scripts/mx/codium.sh #
+# bash ~/install-scripts/mx/codium.sh #
 
 bash ~/install-scripts/mx/kitty.sh #
 
