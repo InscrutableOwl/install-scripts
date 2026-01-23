@@ -21,6 +21,7 @@ fonts=(
     "BigBlueTerminal"
     "MartianMono" 
     "SourceCodePro" 
+    "JetBrainsMono"
     "NerdFontsSymbolsOnly"
     # Add additional fonts here if needed
 )
