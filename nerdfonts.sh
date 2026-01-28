@@ -16,13 +16,10 @@ fi
 
 # Array of font names
 fonts=( 
-    "RobotoMono"
     "Hack"  
     "BigBlueTerminal"
-    "MartianMono" 
     "SourceCodePro" 
     "JetBrainsMono"
-    "NerdFontsSymbolsOnly"
     # Add additional fonts here if needed
 )
 
