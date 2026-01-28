@@ -16,3 +16,5 @@ echo -e 'Types: deb\nURIs: https://download.vscodium.com/debs\nSuites: vscodium\
 ## update and install codium
 
 sudo apt update && sudo apt install codium
+
+## not needed - use flatpak

@@ -1,30 +1,15 @@
-#! /bin/bash
+#!/bin/bash
 
-## for Linux debian
+## install scripts
 
-bash ~/install-scripts/debian/mediaring.sh #
+bash ~/scripts/package.sh
 
-bash ~/install-scripts/debian/repo.sh #
+bash ~/scripts/dvd.sh
 
-bash ~/install-scripts/debian/package.sh #
+bash ~/scripts/nerdfonts.sh
 
-bash ~/install-scripts/debian/firefox.sh #
+bash ~/scripts/kitty.sh
 
-# bash ~/install-scripts/debian/dvd.sh
+git clone https://github.com/mttym42/dotfiles.git ~/dotfiles
 
-bash ~/install-scripts/debian/flatpak.sh #
-
-bash ~/install-scripts/debian/nerdfonts.sh #
-
-bash ~/install-scripts/debian/gitcli.sh #
-
-bash ~/install-scripts/debian/codium.sh #
-
-bash ~/install-scripts/debian/kitty.sh #
-
-# bash ~/install-scripts/debian/starship.sh #
-
-git clone https://github.com/InscrutableOwl/dotfiles.git ~/dotfiles
-
-bash ~/install-scripts/debian/move.sh #
-
+bash ~/scripts/move.sh
