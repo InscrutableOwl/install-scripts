@@ -25,9 +25,8 @@ packages=(
     libdvdcss
     papirus-icon-theme
     fastfetch
-    ttf-roboto-mono-nerd
-    ttf-martian-mono-nerd
-    ttf-hack-nerd
+    ttf-heavydata-nerd
+    ttf-bigbluedata-nerd
     ttf-jetbrains-mono-nerd
     ttf-fantasque-nerd
     ttf-firacode-nerd
