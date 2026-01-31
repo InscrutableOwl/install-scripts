@@ -1,15 +1,15 @@
 #!/bin/bash
 
-## install scripts
+## install-scripts
 
-bash ~/scripts/package.sh
+bash ~/install-scripts/package.sh
 
-bash ~/scripts/dvd.sh
+bash ~/install-scripts/dvd.sh
 
-bash ~/scripts/nerdfonts.sh
+bash ~/install-scripts/nerdfonts.sh
 
-bash ~/scripts/kitty.sh
+bash ~/install-scripts/codium.sh
 
-git clone https://github.com/mttym42/dotfiles.git ~/dotfiles
+git clone https://github.com/InscrutableOwl/dotfiles.git ~/dotfiles
 
-bash ~/scripts/move.sh
+
